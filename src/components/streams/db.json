@@ -1,0 +1,54 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "Hello world",
+      "id": 1
+    },
+    {
+      "title": "My stream",
+      "description": "Hello world",
+      "id": 2
+    },
+    {
+      "title": "My stream",
+      "description": "Hello world",
+      "id": 3
+    },
+    {
+      "title": "My stream",
+      "description": "Hello world",
+      "id": 4
+    },
+    {
+      "title": "My stream",
+      "description": "Hello world",
+      "id": 5
+    },
+    {
+      "title": "My stream",
+      "description": "Hello world",
+      "id": 6
+    },
+    {
+      "title": "My project 01",
+      "description": "Live broadcasting",
+      "id": 7
+    },
+    {
+      "title": "My project 01",
+      "description": "Live broadcasting",
+      "id": 8
+    },
+    {
+      "title": "my testig site",
+      "description": "good morning",
+      "id": 9
+    },
+    {
+      "title": "my testig site",
+      "description": "good morning",
+      "id": 10
+    }
+  ]
+}
